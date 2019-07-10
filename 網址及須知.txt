@@ -1,0 +1,8 @@
+版本:Unity 2018.3.14f1 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5bf080be72745c25a8e1689b?fbclid=IwAR3UOeba_Hzp9lXSBNQtQLycEzmxmFUX7KwWN2YDORkv8pYwRUGFthhn99Q
+
+官方Github網址__https://github.com/marian42/wavefunctioncollapse
+
+本人Github網址__https://github.com/z1125411235/UWA_Wave-Function-Collapse
+
